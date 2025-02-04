@@ -16,6 +16,9 @@
 .hero-image img{
   max-inline-size: 100%;
   block-size: auto;
+    border-radius: 8px;
+    width: 100px;
+    height: auto;
 }
 
 .hero h1{

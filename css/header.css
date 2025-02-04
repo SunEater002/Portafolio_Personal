@@ -11,3 +11,7 @@
     align-items: center;
     block-size: 80px;
 }
+
+html{
+    scroll-behavior: smooth;
+}
