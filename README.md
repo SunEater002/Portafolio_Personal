@@ -8,8 +8,7 @@
 ### Landing page para una pasteleria
 ## Proyecto 4: AlumVega
 ### Pagina web para una empresa de servicios de aluminio
-## Proyecto 5: 8M
-### Pagina web para la conmemoracion del 8M
+
 
 ## Autor 
 - *Carlos Omar Ramirez Terwogt* - Correo: omar.terwogt21@gmail.com - GitHub: [SunEatee002](https://github.com/SunEatee002)
