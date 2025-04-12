@@ -10,6 +10,16 @@
     background: linear-gradient(to top, rgba(255, 255, 255, .30), transparent);
 }
 
+.project-image #img8m{
+    max-inline-size: 100%;
+    block-size: auto;
+    border-radius: 20px;
+    background: linear-gradient(to top, rgba(255, 255, 255, .30), transparent);
+    height: auto;
+    width: 60%;
+    object-fit: cover;
+}
+
 
 .project-description{
     display: flex;
