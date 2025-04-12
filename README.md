@@ -11,4 +11,4 @@
 
 
 ## Autor 
-- *Carlos Omar Ramirez Terwogt* - Correo: omar.terwogt21@gmail.com - GitHub: [SunEatee002](https://github.com/SunEatee002)
+- * Ramirez Terwogt* - GitHub: [SunEatee002](https://github.com/SunEatee002)
